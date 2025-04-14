@@ -1,0 +1,10 @@
+select from where (group by having order by) sfwgho 
+incert into value or incert into select(from where)
+update set where
+dreate from where
+
+ASC 오름차순
+DESC 내림차순
+
+뷰
+create view as 
